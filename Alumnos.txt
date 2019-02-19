@@ -1,0 +1,4 @@
+{"nombre":"Victor Niño","matricula":"S17013000"}
+{"nombre":"Fernanda Balderas","matricula":"S18022033"}
+{"nombre":"Kevin Misael","matricula":"S17022055"}
+{"nombre":"Carlos Ivan","matricula":"S17034000"}
